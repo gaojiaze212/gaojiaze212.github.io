@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![gaojiaze212](https://img.shields.io/badge/gaojiaze212-github-blue?logo=github)](https://github.com/gaojiaze212)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master of Cross-disciplinary Technologies + degree at the Interdisciplinary Studies Institute at Lingnan University in Hong Kong.
 
 #### Email
-sli[at]cumt.edu.cn
+1297867544@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Cross-disciplinary Technologies +, Lingnan University, 2024—2025 (expected).\
+B.E., Civil Engineering, Taizhou University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Automobile Construction.
 
